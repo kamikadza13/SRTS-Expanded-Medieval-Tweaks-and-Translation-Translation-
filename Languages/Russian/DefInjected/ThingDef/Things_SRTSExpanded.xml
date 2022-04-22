@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Superpod -->
+
+  <MSRTSHotBalloon_Incoming.label>Воздушный шар с горячим воздухом прибывает</MSRTSHotBalloon_Incoming.label>
+  <MSRTSHotBalloon_Leaving.label>Воздушный шар с горячим воздухом отправляется</MSRTSHotBalloon_Leaving.label>
+  <MSRTSHotBalloon_Active.label>Воздушный шар с горячим воздухом активен</MSRTSHotBalloon_Active.label>
+
+
+  <!-- Skip -->
+
+  <MSRTSRaider_Incoming.label>Военный дирижабль прибывает</MSRTSRaider_Incoming.label>
+  <MSRTSRaider_BomberRun.label>Военный дирижабль метает бомбы</MSRTSRaider_BomberRun.label>
+  <MSRTSRaider_Leaving.label>Военный дирижабль отправляется</MSRTSRaider_Leaving.label>
+  <MSRTSRaider_Active.label>Военный дирижабль активен</MSRTSRaider_Active.label>
+
+
+  <!-- SRAF -->
+
+  <MSRTSMerchantShip_Incoming.label>Торговый дирижабль прибывает</MSRTSMerchantShip_Incoming.label>
+  <MSRTSMerchantShip_Leaving.label>Торговый дирижабль отправляется</MSRTSMerchantShip_Leaving.label>
+  <MSRTSMerchantShip_Active.label>Торговый дирижабль активен</MSRTSMerchantShip_Active.label>
+
+
+</LanguageData>

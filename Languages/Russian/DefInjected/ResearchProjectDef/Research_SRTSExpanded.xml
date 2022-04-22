@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MSRTS_HotBalloon.label>Примитивная аэростатика</MSRTS_HotBalloon.label>
+  <MSRTS_HotBalloon.description>Разработать технологию создания примитивного аэростата, который получает подъемную силу за счет использования нагретого воздуха.</MSRTS_HotBalloon.description>
+
+  <MSRTS_Ship.label>Военная аэростатика</MSRTS_Ship.label>
+  <MSRTS_Ship.description>Разработать чертежи двух дирижаблей с горячим воздухом, которые могут использоваться в военных или транспортных целях.</MSRTS_Ship.description>
+
+
+</LanguageData>
